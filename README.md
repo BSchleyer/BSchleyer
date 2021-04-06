@@ -25,7 +25,7 @@
 - JetBrains Toolbox
 - PhpStorm
 - PyCharm
-- Webstorm
+- WebStorm
 
 
 <img align="left" alt="BSchleyer | Github Stats" src="https://github-readme-stats.vercel.app/api?username=BSchleyer&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
