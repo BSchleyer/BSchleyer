@@ -3,20 +3,21 @@
 ### Languages that I know
 - PHP
 - HTML, CSS
-- SQL <img src="https://realm.io/assets/svg/icons/database/database.svg" alt="" width="20" heigth="20">
-- Javascript <img src="https://www.stimulsoft.com/images/products/reports-js/description/logo.svg" alt="" width="20" heigth="20">
+- SQL
+- JavaScript
 
 ### Languages that I learn
-- Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="" width="20" heigth="20">
-- Java <img src="https://www.logolynx.com/images/logolynx/0a/0afbc6d4113a6aebd982ddbcc4d5eb91.jpeg" alt="" width="20" heigth="20">
-- C# <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/800px-C_Sharp_wordmark.svg.png" alt="" width="20" heigth="20">
+- Python
+- Java
+- C#
+- C++
 
 ### API´S that I know
 - Discord.js
 - Git <img src="https://www.netways.de/wp-content/uploads/2014/02/Git-Icon-1788C.png" alt="" width="18" heigth="18">
 
 ### API´S that I learn
-
+- none
 
 ---
 ### Tools I use
