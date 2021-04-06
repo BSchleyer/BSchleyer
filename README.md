@@ -14,15 +14,15 @@
 
 ### API´S that I know
 - Discord.js
-- Git <img src="https://www.netways.de/wp-content/uploads/2014/02/Git-Icon-1788C.png" alt="" width="18" heigth="18">
+- Git
 
 ### API´S that I learn
 - none
 
 ---
 ### Tools I use
-- Intellij <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/1200px-IntelliJ_IDEA_Logo.svg.png" alt="" width="20" height="20">
-- Jetbrains Toolbox <img src="https://resources.jetbrains.com/assets/marketo/newsletter/march2016/newsletter_promo.png" alt="" width="20" height="20">
+- IntelliJ IDEA
+- JetBrains Toolbox
 - PhpStorm
 - PyCharm
 - Webstorm
