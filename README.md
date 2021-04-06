@@ -1,4 +1,4 @@
-### Hello, My name is Nico and yea i like programming.
+### Hello, I'm Björn Schleyer. I'm 19, an entrepreneur and web developer.
 ---
 ### Languages that I know
 - PHP
