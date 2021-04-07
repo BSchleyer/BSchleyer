@@ -30,3 +30,5 @@
 
 <img align="left" alt="BSchleyer | Github Stats" src="https://github-readme-stats.vercel.app/api?username=BSchleyer&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <img align="left" alt="BSchleyer | Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSchleyer&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<br />
+![BSchleyer's Profile Views](https://komarev.com/ghpvc/?username=BSchleyer&style=flat-square)
