@@ -21,8 +21,8 @@
 ### API´s that I know
 - Discord.js 
 - Git
-- Schleyer-EDV API
-- German-Host API
+- Schleyer-EDV API (curl & php)
+- German-Host API (curl & php)
 
 ### API´s that I learn
 - none
