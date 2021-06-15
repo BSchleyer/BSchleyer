@@ -33,5 +33,5 @@
 <img align="left" alt="BSchleyer | Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSchleyer&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <br><br />
 
-![BSchleyer's Profile Views](https://komarev.com/ghpvc/?username=BSchleyer&color=blue)
+![BSchleyer's Profile Views](https://komarev.com/ghpvc/?user_id=68195428&color=blue)
 ![](https://hit.yhype.me/github/profile?user_id=68195428)
