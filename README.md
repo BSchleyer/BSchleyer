@@ -13,7 +13,7 @@
 - C++
 
 ### API´s that I know
-- Discord.js
+- Discord.js 
 - Git
 - Schleyer-EDV API
 - German-Host API
