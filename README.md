@@ -12,11 +12,13 @@
 - C#
 - C++
 
-### API´S that I know
+### API´s that I know
 - Discord.js
 - Git
+- Schleyer-EDV API
+- German-Host API
 
-### API´S that I learn
+### API´s that I learn
 - none
 
 ---
