@@ -10,7 +10,7 @@
 - PHP
 - HTML, CSS
 - SQL
-- JavaScript
+- JavaScript / jquery
 
 ### Languages that I learn
 - Python
