@@ -1,5 +1,11 @@
 ### Hello, I'm Björn Schleyer. I'm 19, an entrepreneur and web developer. ![](https://komarev.com/ghpvc/?username=BSchleyer&color=blue)
 ---
+### My Projects ###
+- www.bschleyer.de - development
+- www.german-host.eu / www.german-host.io - hosting company
+- www.schleyer-edv.de - familiy company in the it industry
+
+---
 ### Languages that I know
 - PHP
 - HTML, CSS
