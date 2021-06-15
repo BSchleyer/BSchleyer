@@ -1,4 +1,4 @@
-### Hello, I'm Björn Schleyer. I'm 19, an entrepreneur and web developer.
+### Hello, I'm Björn Schleyer. I'm 19, an entrepreneur and web developer. ![](https://komarev.com/ghpvc/?username=BSchleyer&color=blue)
 ---
 ### Languages that I know
 - PHP
@@ -33,5 +33,4 @@
 <img align="left" alt="BSchleyer | Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSchleyer&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 <br><br />
 
-![](https://komarev.com/ghpvc/?username=BSchleyer&color=blue)
 ![](https://hit.yhype.me/github/profile?user_id=68195428)
