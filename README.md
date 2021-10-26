@@ -1,4 +1,4 @@
-### Hello, I'm Björn Schleyer. I'm 19, an entrepreneur and web developer. ![](https://komarev.com/ghpvc/?username=BSchleyer&color=blue)
+### Hello, I'm Björn Schleyer. I'm 19, an entrepreneur and software developer. ![](https://komarev.com/ghpvc/?username=BSchleyer&color=blue)
 ---
 ### My Projects ###
 - www.bschleyer.de - development
