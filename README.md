@@ -14,9 +14,10 @@
 
 ### Languages that I learn
 - Python
-- Java
+- Java / Spring
 - C#
 - C++
+- Flutter
 
 ### API´s that I know
 - Discord.js 
