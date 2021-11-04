@@ -38,5 +38,7 @@
 - KDE Kate (Texteditor)
 
 
-<img align="left" alt="BSchleyer | Github Stats" src="https://github-readme-stats.vercel.app/api?username=BSchleyer&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-<img align="left" alt="BSchleyer | Github Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSchleyer&count_private=true&show_icons=true&hide_border=true5&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<p align="center">
+	<img src=https://github-readme-stats.vercel.app/api?username=BSchleyer&show_icons=true alt="BSchleyer" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSchleyer&layout=compact" alt="BSchleyer" />
+</p>
