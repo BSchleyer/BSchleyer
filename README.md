@@ -22,19 +22,20 @@
 ### API´s that I know
 - Discord.js 
 - Git
-- Schleyer-EDV API (curl & php)
-- German-Host API (curl & php)
+- Schleyer-EDV Reseller
+- HosterAPI (old VenoCIX-Cloudserver API)
+- LumaSERV (NicAPI)
 
 ### API´s that I learn
-- none
+- InternetX Domain
+- http.net (hosting.de)
 
 ---
 ### Tools I use
-- IntelliJ IDEA
-- JetBrains Toolbox
-- PhpStorm
-- PyCharm
-- WebStorm
+- IntelliJ IDEA (JetBrains Toolbox)
+- PhpStorm (JetBrains Toolbox)
+- PyCharm (JetBrains Toolbox)
+- WebStorm (JetBrains Toolbox)
 - KDE Kate (Texteditor)
 
 
