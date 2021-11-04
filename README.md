@@ -43,3 +43,9 @@
 	<img src=https://github-readme-stats.vercel.app/api?username=BSchleyer&show_icons=true alt="BSchleyer" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSchleyer&layout=compact" alt="BSchleyer" />
 </p>
+
+<br><br>
+
+<p align="center">
+	Last updated: 04.11.2021 - 05:09
+</p>
