@@ -40,8 +40,8 @@
 
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=BSchleyer&show_icons=true alt="BSchleyer" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSchleyer&layout=compact" alt="BSchleyer" />
+	<img src="https://github-readme-stats.vercel.app/api?username=BSchleyer&show_icons=true&theme=dark" alt="BSchleyer" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSchleyer&layout=compact&theme=dark" alt="BSchleyer" />
 </p>
 
 <br><br>
