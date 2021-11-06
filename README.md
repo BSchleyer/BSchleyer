@@ -7,35 +7,29 @@
 
 ---
 
-<div class="col-md-12">
-	<div class="col-md-6">
-		### Languages that I know
-		- PHP
-		- HTML, CSS
-		- SQL
-		- JavaScript / jquery
+### Languages that I know
+- PHP
+- HTML, CSS
+- SQL
+- JavaScript / jquery
 
-		### Languages that I learn
-		- Python
-		- Java / Spring
-		- C#
-		- C++
-		- Flutter
-	</div>
+### Languages that I learn
+- Python
+- Java / Spring
+- C#
+- C++
+- Flutter
 	
-	<div class="col-md-6">
-		### API´s that I know
-		- Discord.js 
-		- Git
-		- Schleyer-EDV Reseller
-		- HosterAPI (old VenoCIX-Cloudserver API)
-		- LumaSERV (NicAPI)
+### API´s that I know
+- Discord.js 
+- Git
+- Schleyer-EDV Reseller
+- HosterAPI (old VenoCIX-Cloudserver API)
+- LumaSERV (NicAPI)
 
-		### API´s that I learn
-		- InternetX Domain
-		- http.net (hosting.de)
-	</div>
-</div>
+### API´s that I learn
+- InternetX Domain
+- http.net (hosting.de)
 
 ---
 ### Tools I use
