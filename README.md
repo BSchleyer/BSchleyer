@@ -66,7 +66,7 @@
 <details>
     <summary>:zap: Languages (30 days)</summary>
     <pre>
-        <figure><embed src="https://wakatime.com/share/@e4c440a2-812b-47d5-a001-513731df4423/300fdc99-b423-4335-b832-e6504e382499.svg"></embed></figure>
+        <img src="https://wakatime.com/share/@e4c440a2-812b-47d5-a001-513731df4423/300fdc99-b423-4335-b832-e6504e382499.svg"></img>
     </pre>
 </details>
 
