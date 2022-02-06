@@ -1,4 +1,4 @@
-### Hello, I'm Björn Schleyer. I'm 19, an entrepreneur and software developer. ![](https://komarev.com/ghpvc/?username=BSchleyer&color=blue)
+### Hello, I'm Björn Schleyer. I'm 20, an entrepreneur and software developer. ![](https://komarev.com/ghpvc/?username=BSchleyer&color=blue)
 ---
 ### My Projects ###
 - www.bschleyer.de - development
@@ -50,16 +50,9 @@
 <img alt="bschleyer Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bschleyer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 
 <details>
-    <summary>:zap: Github Stats</summary>
-    <pre>
-        <img alt="GitHub Stats" src="https://github-readme-stats-new-bastianleicht.vercel.app/api?username=bschleyer&show_icons=true&theme=dark" />
-    </pre>
-</details>
-
-<details>
     <summary>:zap: Code Activity</summary>
     <pre>
-        <img alt="Code activity" src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/a1ac7e83-bba7-4109-8f37-037c37bb63eb.svg" height="400" />    
+        <img alt="Code activity" src="https://wakatime.com/share/@e4c440a2-812b-47d5-a001-513731df4423/9d7c1a69-c8be-48da-8b3d-9811e149ce98.svg" height="400" />    
     </pre>
 </details>
 
@@ -73,7 +66,7 @@
 <details>
     <summary>:zap: Languages (All Time)</summary>
     <pre>
-        <img alt="All time used Languages" src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/d328c553-68a8-4426-974c-be045b324309.svg" height="400" />
+        <img alt="All time used Languages" src="https://wakatime.com/share/@e4c440a2-812b-47d5-a001-513731df4423/71b2f10a-3512-442a-bc9f-3af8ac0ddde8.svg" height="400" />
     </pre>
 </details>
 
@@ -85,5 +78,5 @@
 </details>
 
 <p align="center">
-	Last updated: 04.11.2021 - 05:09
+	Last updated: 06.06.2021 - 22:49
 </p>
