@@ -12,13 +12,14 @@
 - HTML, CSS
 - SQL
 - JavaScript / jquery
+- Python
 
 ### Languages that I learn
-- Python
 - Java / Spring
 - C#
 - C++
 - Flutter
+- Laravel (PHP Framework)
 	
 ### API´s that I know
 - Discord.js 
@@ -26,10 +27,15 @@
 - Schleyer-EDV Reseller
 - HosterAPI (old VenoCIX-Cloudserver API)
 - LumaSERV (NicAPI)
+- http.net (hosting.de)
 
 ### API´s that I learn
 - InternetX Domain
-- http.net (hosting.de)
+
+### I'am currently learning & working on the following
+- WHMCS-Addon / Module Development
+- REST-API (PHP)
+- PHP-Client for REST-API
 
 ---
 ### Tools I use
@@ -37,7 +43,7 @@
 - PhpStorm (JetBrains Toolbox)
 - PyCharm (JetBrains Toolbox)
 - WebStorm (JetBrains Toolbox)
-- KDE Kate (Texteditor)
+- KDE Kate / Notepad++ (Texteditor)
 
 
 <p align="center">
@@ -78,5 +84,5 @@
 </details>
 
 <p align="center">
-	Last updated: 06.06.2021 - 22:49
+	Last updated: 24.02.2021 - 07:57
 </p>
