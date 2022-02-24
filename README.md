@@ -32,10 +32,12 @@
 ### API´s that I learn
 - InternetX Domain
 
-### I'am currently learning & working on the following
+### I'am currently learning & working on
 - WHMCS-Addon / Module Development
 - REST-API (PHP)
 - PHP-Client for REST-API
+- Schleyer-EDV REST-API for Reselling and Colocation
+- Schleyer-EDV internal project API (manage projects, tickets, payments, products and more)
 
 ---
 ### Tools I use
