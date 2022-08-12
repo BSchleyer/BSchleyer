@@ -85,9 +85,9 @@
     </pre>
 </details>
 
-<p align="center">
+<div align="center">
 	[![Discord](https://discord.c99.nl/widget/theme-4/602625160947826735.png)](#)
-</p>
+</div>
 
 <p align="center">
 	Last updated: 13.08.2021 - 00:16
