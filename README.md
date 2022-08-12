@@ -86,7 +86,7 @@
 </details>
 
 <p align="center">
-	[![Discord](https://discord.c99.nl/widget/theme-4/742735613937320007.png)](#)
+	[![Discord](https://discord.c99.nl/widget/theme-4/602625160947826735.png)](#)
 </p>
 
 <p align="center">
