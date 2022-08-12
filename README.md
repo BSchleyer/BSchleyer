@@ -85,9 +85,10 @@
     </pre>
 </details>
 
-<div align="center">
-	[![Discord](https://discord.c99.nl/widget/theme-4/602625160947826735.png)](#)
-</div>
+<p align="center">
+	<img src="https://discord.c99.nl/widget/theme-4/602625160947826735.png" alt="Björn Schleyer - Discord">
+</p>
+[![Discord](https://discord.c99.nl/widget/theme-4/602625160947826735.png)](#)
 
 <p align="center">
 	Last updated: 13.08.2021 - 00:16
