@@ -13,13 +13,14 @@
 - SQL
 - JavaScript / jquery
 - Python
+- Laravel (PHP Framework)
 
 ### Languages that I learn
 - Java / Spring
 - C#
 - C++
 - Flutter
-- Laravel (PHP Framework)
+- Python
 	
 ### API´s that I know
 - Discord.js 
@@ -28,14 +29,14 @@
 - HosterAPI (old VenoCIX-Cloudserver API)
 - LumaSERV (NicAPI)
 - http.net (hosting.de)
+- InternetX Domain
 
 ### API´s that I learn
-- InternetX Domain
+- none
 
 ### I'am currently learning & working on
 - WHMCS-Addon / Module Development
-- REST-API (PHP)
-- PHP-Client for REST-API
+- sevDesk API
 - Schleyer-EDV REST-API for Reselling and Colocation
 - Schleyer-EDV internal project API (manage projects, tickets, payments, products and more)
 
