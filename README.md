@@ -1,95 +1,125 @@
-### Hello, I'm Björn Schleyer. I'm 20, an entrepreneur and software developer. ![](https://komarev.com/ghpvc/?username=BSchleyer&color=blue)
----
-### My Projects ###
-- www.bschleyer.de - development
-- www.german-host.eu / www.german-host.io - hosting company
-- www.schleyer-edv.de - familiy company in the it industry
+<h2 align="left">Hi 👋! My name is Björn and I'm a full-stack webdeveloper, from Gelsenkirchen (Germany).</h2>
 
----
+###
 
-### Languages that I know
-- PHP
-- HTML, CSS
-- SQL
-- JavaScript / jquery
-- Python
-- Laravel (PHP Framework)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BSchleyer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BSchleyer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### Languages that I learn
-- Java / Spring
-- C#
-- C++
-- Flutter
-- Python
-	
-### API´s that I know
-- Discord.js 
-- Git
-- Schleyer-EDV Reseller
-- HosterAPI (old VenoCIX-Cloudserver API)
-- LumaSERV (NicAPI)
-- http.net (hosting.de)
-- InternetX Domain
+###
 
-### API´s that I learn
-- none
+<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-### I'am currently learning & working on
-- WHMCS-Addon / Module Development
-- sevDesk API
-- Schleyer-EDV REST-API for Reselling and Colocation
-- Schleyer-EDV internal project API (manage projects, tickets, payments, products and more)
+###
 
----
-### Tools I use
-- IntelliJ IDEA (JetBrains Toolbox)
-- PhpStorm (JetBrains Toolbox)
-- PyCharm (JetBrains Toolbox)
-- WebStorm (JetBrains Toolbox)
-- KDE Kate / Notepad++ (Texteditor)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="30" alt="safari logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+</div>
 
+###
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=BSchleyer&show_icons=true&theme=dark" alt="BSchleyer" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSchleyer&layout=compact&theme=dark" alt="BSchleyer" />
-</p>
+<div align="center">
+  <a href="https://www.youtube.com/channel/UCI4raPWfbYfi5l_bzz8D_HA" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/bjxrn_schleyer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.twitch.tv/bschleyer602" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="bschleyer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/bj%C3%B6rn-schleyer-3a83a118b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/bjxrn.schleyer/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://t.me/bschleyer" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="mailto:mail@bschleyer.de" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
 
-<br><br>
+###
 
-<img alt="bschleyer Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bschleyer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+<br clear="both">
 
-<details>
-    <summary>:zap: Code Activity</summary>
-    <pre>
-        <img alt="Code activity" src="https://wakatime.com/share/@e4c440a2-812b-47d5-a001-513731df4423/9d7c1a69-c8be-48da-8b3d-9811e149ce98.svg" height="400" />    
-    </pre>
-</details>
+<img src="https://raw.githubusercontent.com/BSchleyer/BSchleyer/output/snake.svg" alt="Snake animation" />
 
-<details>
-    <summary>:zap: Languages (30 days)</summary>
-    <pre>
-        <img src="https://wakatime.com/share/@e4c440a2-812b-47d5-a001-513731df4423/300fdc99-b423-4335-b832-e6504e382499.svg"></img>
-    </pre>
-</details>
+###
 
-<details>
-    <summary>:zap: Languages (All Time)</summary>
-    <pre>
-        <img alt="All time used Languages" src="https://wakatime.com/share/@e4c440a2-812b-47d5-a001-513731df4423/71b2f10a-3512-442a-bc9f-3af8ac0ddde8.svg" height="400" />
-    </pre>
-</details>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
 
-<details>
-    <summary>:zap: GitHub Trophy</summary>
-    <pre>
-        <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bschleyer" alt="bastianleicht" /></a> </p>
-    </pre>
-</details>
+###
 
-<p align="center">
-	<img src="https://discord.c99.nl/widget/theme-4/602625160947826735.png" alt="Björn Schleyer - Discord">
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/BSchleyer/count.svg?"  />
+</div>
 
-<p align="center">
-	Last updated: 13.08.2021 - 00:16
-</p>
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31w5kazbmqfnxdzcqwam7hokss5u">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
