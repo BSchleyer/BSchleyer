@@ -61,8 +61,7 @@
 </p>
 
 <br><br>
-
-<img alt="bschleyer Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=bschleyer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+<img alt="bschleyer Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bschleyer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 
 <details>
     <summary>:zap: Code Activity</summary>
