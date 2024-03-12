@@ -97,5 +97,5 @@
 </p>
 
 <p align="center">
-	Last updated: 13.08.2021 - 00:16
+	Last updated: 12.03.2024 - 05:26 MEZ
 </p>
