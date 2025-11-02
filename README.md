@@ -1,65 +1,72 @@
-<h1>I'm Bastian, a self-taught web developer/full-stack programmer <img src="https://raw.githubusercontent.com/BSchleyer/BSchleyer/master/assets/wave.gif" width="30px" height="30px" alt=""></h1>
+### Hello, I'm Björn Schleyer. I'm 23, an entrepreneur and software developer. ![](https://komarev.com/ghpvc/?username=BSchleyer&color=blue)
+---
+### My Projects ###
+- www.bschleyer.de - development
+- www.german-host.eu / www.german-host.io - hosting company
+- www.schleyer-edv.de - familiy company in the it industry
 
-### Socials
-<div align="center">
-<a href="https://github.com/BSchleyer" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/bastianleicht" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/BSchleyer" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/13409812/bastian-leicht" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-<a href="https://discord.com/users/350618993020764161" target="_blank">
-<img src=https://img.shields.io/badge/discord-5865f2.svg?&style=for-the-badge&logo=discord&logoColor=white style="margin-bottom: 5px;" />
-</a>  
-</div>
 
-### GitHub Stats
-<p align="left"><img src="https://raw.githubusercontent.com/BSchleyer/BSchleyer/refs/heads/master/github-metrics.svg" /></p>
+### My companies ###
+- Björn Schleyer Einzelunternehmen
+- Schleyer-EDV UG (haftungsbeschränkt)
+- Schleyer & Otto GbR
+  
+---
 
-🌱 Stuff that i’m currently learning: 
-- [Ansible](https://docs.ansible.com/)
-- [Zend](https://framework.zend.com/learn.html)
+### Languages that I know
+- PHP
+- HTML, CSS
+- SQL
+- JavaScript / jquery
+- Python
+- Laravel (PHP Framework)
 
-:zap: Recent Github Activity    
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#3592](https://github.com/netbox-community/devicetype-library/pull/3592) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
-2. 🗣 Commented on [#3026](https://github.com/netbox-community/devicetype-library/issues/3026) in [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library)
-<!--END_SECTION:activity-->
+### Languages that I learn
+- Java / Spring
+- C#
+- C++
+- Flutter
+- Python
 
-<details>
-    <summary>:zap: Code Activity</summary>
-    <pre>
-        <img alt="Code activity" src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/a1ac7e83-bba7-4109-8f37-037c37bb63eb.svg" height="400" />    
-    </pre>
-</details>
+### API´s that I know
+- Discord.js 
+- Git
+- Schleyer-EDV Reseller
+- HosterAPI
+- LumaSERV (NicAPI)
+- http.net (hosting.de)
+- InternetX Domain
 
-<details>
-    <summary>:zap: Languages (7 days)</summary>
-    <pre>
-        <img alt="Languages used (7 days)" src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/b0eba8ff-2de8-4b40-929e-8c7a97a106f9.svg" height="400" />
-    </pre>
-</details>
+### API´s that I learn
+- none
 
-<details>
-    <summary>:zap: Languages (All Time)</summary>
-    <pre>
-        <img alt="All time used Languages" src="https://wakatime.com/share/@90818ae0-9ba0-4e2a-8ed8-98c30e947c50/d328c553-68a8-4426-974c-be045b324309.svg" height="400" />
-    </pre>
-</details>
+### I'am currently learning & working on
+- WHMCS-Addon / Module Development
+- sevDesk API
+- Schleyer-EDV REST-API for Reselling and Colocation
+- Schleyer-EDV internal project API (manage projects, tickets, payments, products and more)
 
-<details>
-    <summary>:zap: GitHub Trophy</summary>
-    <pre>
-        <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BSchleyer" alt="BSchleyer" /></a> </p>
-    </pre>
-</details>
+---
+### Tools I use
+- IntelliJ IDEA (JetBrains Toolbox)
+- PhpStorm (JetBrains Toolbox)
+- PyCharm (JetBrains Toolbox)
+- WebStorm (JetBrains Toolbox)
+- KDE Kate / Notepad++ (Texteditor)
 
-![Profile Views](https://komarev.com/ghpvc/?username=2FBSchleyer&style=flat-square)
 
-[Website]: https://www.bschleyer.de/
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=BSchleyer&show_icons=true&theme=dark" alt="BSchleyer" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSchleyer&layout=compact&theme=dark" alt="BSchleyer" />
+</p>
+
+<br><br>
+<img alt="bschleyer Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bschleyer&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+
+<p align="center">
+	<img src="https://discord.c99.nl/widget/theme-4/602625160947826735.png" alt="Björn Schleyer - Discord">
+</p>
+
+<p align="center">
+	Last updated: 12.03.2024 - 05:26 MEZ
+</p>
